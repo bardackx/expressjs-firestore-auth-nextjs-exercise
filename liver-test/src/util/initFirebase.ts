@@ -2,7 +2,7 @@ import admin from "firebase-admin";
 
 if (!admin.apps.length) {
   const firebaseConfig = {
-    apiKey: "AIzaSyCvX8y2JHejGKN_FbcELmdIEp3lsLKJEiw",
+    apiKey: "",
     authDomain: "liver-test-firebase.firebaseapp.com",
     projectId: "liver-test-firebase",
     storageBucket: "liver-test-firebase.firebasestorage.app",
