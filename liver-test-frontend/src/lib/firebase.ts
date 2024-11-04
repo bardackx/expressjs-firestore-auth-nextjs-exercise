@@ -3,7 +3,7 @@ import { connectAuthEmulator, getAuth } from "firebase/auth";
 import { connectFirestoreEmulator, getFirestore } from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCvX8y2JHejGKN_FbcELmdIEp3lsLKJEiw",
+  apiKey: "",
   authDomain: "liver-test-firebase.firebaseapp.com",
   projectId: "liver-test-firebase",
   storageBucket: "liver-test-firebase.firebasestorage.app",
